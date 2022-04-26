@@ -4,7 +4,7 @@ description: NOTATION（NOMAL PAGE）
 
 # 🖊 Page 2 : notation
 
-## REFERENCE![](<.gitbook/assets/IMGSS 2022-04-26 12.49.44.jpg>)
+## REFERENCE
 
 {% tabs %}
 {% tab title="Use gitbook locally" %}
@@ -46,46 +46,11 @@ UPDATE
 
 
 
-
-
-
-
-
-
-
-
-## H1
-
-### H2
-
-#### H3
-
-p
-
-* Unordered
-
-\---
-
-1. Ordered
-
-\---
-
-* [ ] task list
-
-\---
+*
 
 {% hint style="info" %}
 Hint
 {% endhint %}
 
 > Quote
-
-````
-// code block
-
-``` 
-
-```
-
-````
 
