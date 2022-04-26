@@ -1,6 +1,6 @@
 # Table of contents
 
-* [⚙ Page 1 : commit](README.md)
+* [⚙ README](README.md)
 * [🖊 Page 2 : notation](page-2-notation.md)
 
 ## Group 1
