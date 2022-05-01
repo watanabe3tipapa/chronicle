@@ -4,9 +4,8 @@ description: Gitbook testing resume
 
 # ⚙ README
 
-#### このリポジトリはテスト用です。
+#### このリポジトリはGitBookのテスト用です。
 
-#### Gitbookを用いて更新しています。
 
 
 
